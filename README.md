@@ -18,7 +18,7 @@ class DataEngineer:
         self.rol        = "Data Engineer & Analytics Specialist"
         self.empresa    = "WOM Chile"
         self.ubicacion  = "Santiago, Chile 🇨🇱"
-        self.experiencia = "7 años"
+        self.experiencia = "8 años"
         self.educacion  = [
             "Diplomado Data Engineering – USACH (2024–Actualidad)",
             "Ing. en Ejecución Informática – Duoc UC",
