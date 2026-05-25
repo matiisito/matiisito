@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Mat%C3%ADas+%F0%9F%91%8B;Data+Engineer+%7C+Analytics+Specialist;7+a%C3%B1os+transformando+datos+en+valor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Mat%C3%ADas+%F0%9F%91%8B;Data+Engineer+%7C+Analytics+Specialist;8+a%C3%B1os+transformando+datos+en+valor)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=matiisito&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="profile views"/>
 
