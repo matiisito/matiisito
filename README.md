@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Mat%C3%ADas+%F0%9F%91%8B;Data+Engineer+%7C+Analytics+Specialist;7+a%C3%B1os+transformando+datos+en+valor)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=matiisito&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="profile views"/>
@@ -14,12 +13,11 @@
 ```python
 class DataEngineer:
     def __init__(self):
-        self.nombre     = "Matías Neira Fuentes"
-        self.rol        = "Data Engineer & Analytics Specialist"
-        self.empresa    = "WOM Chile"
-        self.ubicacion  = "Santiago, Chile 🇨🇱"
+        self.nombre      = "Matías Neira Fuentes"
+        self.rol         = "Data Engineer & Analytics Specialist"
+        self.ubicacion   = "Santiago, Chile 🇨🇱"
         self.experiencia = "8 años"
-        self.educacion  = [
+        self.educacion   = [
             "Diplomado Data Engineering – USACH (2024–Actualidad)",
             "Ing. en Ejecución Informática – Duoc UC",
         ]
@@ -75,13 +73,17 @@ class DataEngineer:
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Proyectos Destacados
 
-<div align="center">
+### ☁️ ETL & Automatización con GCP — [`Ejemplos-ETL-GCP`](https://github.com/matiisito/Ejemplos-ETL-GCP)
 
-<img height="160em" src="https://github-readme-stats-mauve-zeta-99.vercel.app/api?username=matiisito&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="160em" src="https://github-readme-stats-mauve-zeta-99.vercel.app/api/top-langs/?username=matiisito&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-</div>
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [📧 Automatización de Correos](https://github.com/matiisito/Ejemplos-ETL-GCP/blob/main/runQuery.gs) | Apps Script que consulta BigQuery, envía reportes por correo automáticamente y actualiza el estado de procesamiento | BigQuery · Apps Script |
+| [📊 BigQuery → Excel Multi-Hoja](https://github.com/matiisito/Ejemplos-ETL-GCP/blob/main/exportar_bigquery_a_excel.ipynb) | Exporta múltiples tablas de BigQuery a un Excel con hojas separadas por tipo de dato | Python · BigQuery · xlsxwriter |
+| [⬇️ Descarga desde GCS Bucket](https://github.com/matiisito/Ejemplos-ETL-GCP/blob/main/Descarga%20archivo%20desde%20bucket.ipynb.ipynb) | Exporta tabla de BigQuery a Google Cloud Storage y descarga el archivo localmente | Python · BigQuery · GCS |
+| [📈 Reporte HTML Parque Suscriptores](https://github.com/matiisito/Ejemplos-ETL-GCP/blob/main/reporte_parque_suscriptores.sql) | Stored procedure que genera un reporte HTML con gráfico de barras y tablas dinámicas enviado por correo | BigQuery SQL |
+| [⚡ Gatillador de Reportes](https://github.com/matiisito/Ejemplos-ETL-GCP/blob/main/gatillador_parque_suscriptores.sql) | Valida condiciones (registros existentes + día de semana) antes de ejecutar y despachar reportes automáticamente | BigQuery SQL |
 
 ---
 
